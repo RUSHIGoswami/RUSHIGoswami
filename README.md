@@ -1,5 +1,3 @@
-[![MasterHead](https://assets.weforum.org/article/image/0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.png)]
-
 <h1 align="center">Hi 👋, I'm Rushi Goswami</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Web developer" width="400">
