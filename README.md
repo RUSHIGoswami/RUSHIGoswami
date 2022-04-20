@@ -50,8 +50,6 @@
   
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushigoswami&show_icons=true&locale=en&layout=compact" alt="rushigoswami" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushigoswami&show_icons=true&locale=en" alt="rushigoswami" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushigoswami&" alt="rushigoswami" /></p>
