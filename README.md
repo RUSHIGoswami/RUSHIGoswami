@@ -1,6 +1,6 @@
 ## Rushi Goswami
 
-AI/ML Engineer at [Promact Infotech](https://promactinfo.com) · Gujarat, India
+Previously, AI/ML Engineer at [Promact Infotech](https://promactinfo.com) · Gujarat, India
 
 I build production AI systems end-to-end - architecture, pipelines, deployment.
 Most of my work lives in domains where AI adoption is still early:
